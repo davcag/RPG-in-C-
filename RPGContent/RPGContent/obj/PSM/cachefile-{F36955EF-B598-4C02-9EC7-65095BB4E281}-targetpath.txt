@@ -1,0 +1,9 @@
+Content\Player\Player.xnb
+Content\Player\SpriteSheet.xnb
+Content\Buttons\White.xnb
+Content\Enemies\EnemySheet.xnb
+Content\NPC\NpcSheet.xnb
+Content\Enemies\Enemy.xnb
+Content\Tiles\Tilemap.xnb
+Content\BattleArt\Arrows.xnb
+Content\Font.xnb

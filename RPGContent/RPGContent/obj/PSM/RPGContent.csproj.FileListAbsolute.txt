@@ -1,0 +1,12 @@
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Player\Player.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Player\SpriteSheet.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Buttons\White.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Enemies\EnemySheet.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\NPC\NpcSheet.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Enemies\Enemy.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Tiles\Tilemap.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\BattleArt\Arrows.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\Content\Font.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\PSM\IgnoreMe.dll
+D:\PL\C#\RPG\RPGContent\RPGContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PL\C#\RPG\RPGContent\RPGContent\obj\PSM\IgnoreMe.dll

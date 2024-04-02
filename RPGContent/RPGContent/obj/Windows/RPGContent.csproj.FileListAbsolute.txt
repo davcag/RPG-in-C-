@@ -1,0 +1,13 @@
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Tiles\Grass.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Tiles\Stone.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Tiles\Water.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Player\Player.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Player\SpriteSheet.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Buttons\White.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Enemies\EnemySheet.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\NPC\NpcSheet.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Enemies\Enemy.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\Content\Font.xnb
+D:\PL\C#\RPG\RPGContent\RPGContent\bin\Windows\IgnoreMe.dll
+D:\PL\C#\RPG\RPGContent\RPGContent\obj\Windows\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PL\C#\RPG\RPGContent\RPGContent\obj\Windows\IgnoreMe.dll
